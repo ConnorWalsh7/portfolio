@@ -1,0 +1,20 @@
+# Global variables
+
+# Site settings
+title: Connor Walsh
+email: ConnorJWalsh@outlook.com
+url: "www.connorwalsh.ca"
+description: "I am a recent graduate from Dalhousie University with a bachelors degree in Computer Science with a speciality in Communication Technology and Cyber Security"
+description2: "I have a passion for technology and love to develop creative solutions to problems. I am always looking to learn more and take on new challenges. I work very well with others and love being part of a team to create the best solution possible."
+meta_author: Walsh Connor
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 4 Cranberry Cres.
+  - line: Dartmouth, NS B2W5A1
+  - line: Canada
+
+# Links
+github: https://github.com/ConnorWalsh7
+linkedin: https://www.linkedin.com/in/connor-walsh-35752268

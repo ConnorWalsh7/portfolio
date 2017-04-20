@@ -1,0 +1,26 @@
+# Site settings
+title: Connor Walsh
+email: ConnorJWalsh@outlook.com
+url: ""
+description: "I am a recent graduate from Dalhousie University. I have a bachelors degree in Computer Science with a speciality in Communication Technology and Cyber Security"
+skills: "Development - Security - Design"
+meta_author: Walsh Connor
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 25D4E7 #46d2d2 #18bc9c #80B3FF
+  primary-rgb: "37,212,231" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/connorwalsh7
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/connor-walsh-35752268
+
+# Build settings
+markdown: kramdown
+permalink: pretty
