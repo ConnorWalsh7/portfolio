@@ -18,3 +18,13 @@ address:
 # Links
 github: https://github.com/ConnorWalsh7
 linkedin: https://www.linkedin.com/in/connor-walsh-35752268
+
+# Job descriptions
+jobs:
+  - birchhills:
+    - description:
+      - line: Provided general IT and network support for school and staff
+      - line: Redesigned and maintained existing Wordpress website to showcase a development project
+      - line: Created two new websites with Joomla CMS platform that will replace the current school website and after school care/summer camp website
+      - line: Modified Joomla templates with custom CSS tailored to clients’ needs to create a unique website design
+      - line: Modified Joomla extensions and plugins in PHP to expand functionality for specific systems such as applying for school or a summer camp registration/booking system
