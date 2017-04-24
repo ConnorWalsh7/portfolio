@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "Connor Walsh <ConnorJWalsh@outlook.com>"
+  ],
+  "description": "Personal website",
+  "main": "",
+  "keywords": [
+    "connor",
+    "walsh",
+    "portfolio",
+    "software",
+    "development",
+    "web"
+  ],
+  "homepage": "www.connorwalsh.ca",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ekko-lightbox": "^5.1.1"
+  }
+}

@@ -22,9 +22,46 @@ linkedin: https://www.linkedin.com/in/connor-walsh-35752268
 # Job descriptions
 jobs:
   - birchhills:
-    - description:
+    title: IT/Web Developer
+    company: Birch Hills Academy
+    time: July 2016 - Sep 2016
+    description:
       - line: Provided general IT and network support for school and staff
       - line: Redesigned and maintained existing Wordpress website to showcase a development project
       - line: Created two new websites with Joomla CMS platform that will replace the current school website and after school care/summer camp website
       - line: Modified Joomla templates with custom CSS tailored to clients’ needs to create a unique website design
       - line: Modified Joomla extensions and plugins in PHP to expand functionality for specific systems such as applying for school or a summer camp registration/booking system
+
+  - dell:
+    title: Software Development Engineer Coop
+    company: Dell Canada
+    time: May 2015 - Aug 2015
+    description:
+      - line: Worked directly with Quality Control Engineers to rigorously test software product updates and submit bug reports
+      - line: Created, deployed, and maintained personal virtualized servers through VMware VSphere client
+      - line: Developed custom PowerShell Cmdlets to automate virtual server setups
+      - line: Developed custom automation tools in C# and .Net to increase testing efficiency and reliability
+      - line: Used Microsoft Test Manager to deploy the product to custom environments and run automated tests to verify new software builds and increase the range of tests to run
+      - line: Gained in-depth knowledge of Visual Studio and standard software development practices to efficiently write code, debug, submit bug reports, track and update assigned tasks, submit code reviews, and contribute to the development repository
+
+  - abm:
+    title: Service Desk Application Specialist Coop
+    company: ABM Integrated Solutions
+    time: Apr 2014 - Mar 2015
+    description:
+      - line: Provided user-friendly and professional end-user support for a variety of technical applications and programs
+      - line: Efficiently diagnosed and resolved customer issues
+      - line: Accurately maintained end-user documentation and incident tickets
+      - line: Configured hardware and customized new and existing work stations for specific customer needs
+      - line: Managed office support email, corresponding with clients to resolve issues or answer questions
+
+  - bestbuy:
+    title: Computer Specialist
+    company: Bestbuy Canada
+    time: Oct 2011 - Aug 2013
+    description:
+      - line: Worked directly with customers to identify their needs and find them the proper solution they are looking for. This may include demonstrating new technology to customers, helping to fix a current problem, or offer advice on various products
+      - line: My responsibilities also included maintaining the department, which entailed restocking the isles, performing price audits to insure correct prices, performing stock checks on items, placing new products out on display and general cleaning
+      - line: As a Multimedia Entertainment Specialist, the computer department absorbed three others to form the "Multimedia Entertainment" department which included Computers and Networking, Digital Imaging, Car Audio, and Digital Media
+
+

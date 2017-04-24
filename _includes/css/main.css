@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+/* For embedded lightbox modal */
+.modal { overflow: auto !important; }
+
+/* lightbox close button */
+.close, .close:hover {
+    color: grey;
+}
 body {
     overflow-x: hidden;
 }
@@ -455,6 +462,10 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
+
+
+
+
 /* Timeline */
 
 .timeline {
@@ -642,3 +653,4 @@ footer .footer-below {
         right: auto;
     }
 }
+

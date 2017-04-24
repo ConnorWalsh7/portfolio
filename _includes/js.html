@@ -1,13 +1,24 @@
- <!-- jQuery Version 3.2.1 -->
-    <script src="/js/jquery-3.2.1.min.js"></script>
+<!-- jQuery Version 3.2.1 -->
+<script src="/js/jquery-3.2.1.min.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="/js/bootstrap.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="/js/jquery.easing.min.js"></script>
-    <script src="/js/classie.js"></script>
-    <script src="/js/cbpAnimatedHeader.js"></script>
+<!-- Plugin JavaScript -->
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/classie.js"></script>
+<script src="/js/cbpAnimatedHeader.js"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="/js/freelancer.js"></script>
+<!-- Custom Theme JavaScript -->
+<script src="/js/freelancer.js"></script>
+
+<!-- Lightbox script -->
+<script src="/js/ekko-lightbox.js"></script>
+
+<script>
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+        event.preventDefault();
+        $(this).ekkoLightbox();
+    });
+</script>
+
