@@ -35,8 +35,8 @@ create events, handle event registration, track attendance, and generate automat
 Similarly for students, we created the Sandbox mobile app so students have one platform for all Sandbox content and a simple way to register for events.
 
 # Administrator Backend
-The administrator backend is built with [Laravel](https://laravel.com/), a popular MVC framework using PHP.
-The frontend is styled with [Materialize](http://materializecss.com/), a design framework based on Google's Material Design. 
+The administrator backend is built with <a href="https://laravel.com" target="_blank">Laravel</a>, a popular MVC framework using PHP.
+The frontend is styled with <a href="http://materializecss.com" target="_blank">Materialize</a>, a design framework based on Google's Material Design. 
 
 #### Dashboard
 Tailored for each Sandbox manager showing their Sandboxes upcoming events, news articles, latest notes, and event statistics
