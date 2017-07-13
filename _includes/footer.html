@@ -8,12 +8,8 @@
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                {% if network.title == "envelope" %}
-                                    <a href="{{ network.url }}"  class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-                                {% else %}
-                                <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-
-                                {% endif %}
+                                <!-- Add target="_blank" to links except for email link -->
+                                <a href="{{ network.url }}" {% if network.title != "envelope" %} target="_blank" {% endif %} class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                             </li>
 		                    {% endfor %}
                         </ul>
