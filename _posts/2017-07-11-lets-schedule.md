@@ -4,7 +4,7 @@ modal-id: 4
 date: 2017-07-11
 title: Let's Schedule
 project: lets-schedule
-thumbnail: lets-schedule-home-scaled.png
+thumbnail: lets-schedule-home-thumbnail.png
 img: lets-schedule-home.png
 alt: lets-schedule-logo
 ---
