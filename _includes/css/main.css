@@ -20,7 +20,7 @@
 }
 
 /* submit button color */
-.contact-button {
+.contact-button, .contact-button:focus {
     background: #2c3e50;
 }
 
