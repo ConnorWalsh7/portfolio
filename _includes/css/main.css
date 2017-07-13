@@ -11,6 +11,29 @@
 .close, .close:hover {
     color: grey;
 }
+
+/* contact form */
+
+/* Background of input forms */
+.control-group {
+    background: #fff;
+}
+
+/* submit button color */
+.contact-button {
+    background: #2c3e50;
+}
+
+.contact-button:hover {
+    background: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.primary }};
+}
+
+/* Remove left padding from button to align with form */
+.btn-margin {
+    padding-left: 0px;
+}
+
 body {
     overflow-x: hidden;
 }
@@ -280,8 +303,9 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid  rgba(111, 93, 93, 0.51);
 }
+
 
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -461,10 +485,6 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
-
-
-
-
 
 /* Timeline */
 
