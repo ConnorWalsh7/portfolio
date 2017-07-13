@@ -4,9 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-
-/* Custom footer */
-
+/* lightbox nav arrows */
+.ekko-lightbox-nav-overlay a span {
+    color: black;
+}
 
 /* For embedded lightbox modal */
 .modal { overflow: auto !important; }

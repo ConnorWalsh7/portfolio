@@ -28,7 +28,7 @@ Sandboxes are run independently from each other. Each Sandbox uses their own met
 
 Sandbox managers also need a better way to track attendance at their events and organize data to generate reports for the government.
 
-# Goals
+# Solution
 The goal of the Sandbox Activity Manager was to create one platform for Sandbox managers to use to post news articles, 
 create events, handle event registration, track attendance, and generate automated reports.  
 
