@@ -1,18 +1,10 @@
     <!-- Footer -->
-    <footer class="text-center">
+    <footer class="text-center" id="links">
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>
-                            {% for adress in site.data.global.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
-                        </p>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
+                    <div class="footer-col col-md-12">
+                        <h3>Links</h3>
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>

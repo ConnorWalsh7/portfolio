@@ -21,6 +21,9 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/connor-walsh-35752268
 
+  - title: envelope
+    url: mailto:connorjwalsh@outlook.com
+
 # Build settings
 markdown: kramdown
 permalink: pretty
