@@ -11,8 +11,8 @@ meta_author: Walsh Connor
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 4 Cranberry Cres.
-  - line: Dartmouth, NS B2W5A1
+  - line: 209-556 Bedford Highway
+  - line: Halifax, NS B3M 4X7
   - line: Canada
 
 # Links
@@ -21,6 +21,30 @@ linkedin: https://www.linkedin.com/in/connor-walsh-35752268
 
 # Job descriptions
 jobs:
+  - garvin-allen:
+    title: DevOps Developer
+    compnay: Garvin-Allen Solutions
+    time: August 2017 - Current
+    description:
+      - line: Setup and maintained CI/CD pipelines using Bamboo and custom deployment tools
+      - line: Wrote automated QA tests using Selenium WebDriver and Ranorex frameworks
+      - line: Created load tests with JMeter and automated to run nightly as part of CD pipeline
+      - line: Coordinated with developers to write custom utilities or scripts to increase work efficiency
+      - line: Contributed to main software project building features to allow clients to monitor and fix problems in their environments
+      - line: Assisted clients with troubleshooting, configuring, and deploying software in production and staging environments
+      - line: Worked with developers and QA staff to identify and fix bugs in project
+
+  - shiftkey:
+    title: Software Developer
+    company: Shiftkey Labs
+    time: October 2017 - April 2018
+    description:
+      - line: Hired to continue development of a software project started through program at Dalhousie
+      - line: Lead backend developer for Laravel PHP web application
+      - line: Developed API that was consumed by a website frontend and iOS/Android applications built with Ionic
+      - line: Build custom tools for client such as an event registration system and attendance tracking features
+      - line: Processed user data in meaningful way to generate custom reports for clients to submit to provincial government
+
   - birchhills:
     title: IT/Web Developer
     company: Birch Hills Academy
