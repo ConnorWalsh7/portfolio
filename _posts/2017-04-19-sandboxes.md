@@ -4,7 +4,7 @@ modal-id: 1
 date: 2017-04-19
 title: Sandbox Activity Manager
 project: sandboxes
-thumbnail: sandboxes-original.png
+thumbnail: sandboxes-thumbnail.png
 img: sandboxes-login.png
 alt: image-alt
 project-date: September 2016
